@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ỨNG DỤNG TRA CỨU ĐỊA ĐIỂM DU LỊCH</string>
+    <string name="button_name">>> XEM DANH SÁCH ĐỊA ĐIỂM DU LỊCH</string>
+    <string name="move_back_city_list">{{ XEM DANH SÁCH THÀNH PHỐ</string>
+    <string name="city_screen_title">DANH SÁCH THÀNH PHỐ</string>
+    <string name="place_screen_title">DANH SÁCH ĐỊA ĐIỂM DU LỊCH</string>
+    <string name="place_detail_title">CHI TIẾT ĐỊA ĐIỂM DU LỊCH</string>
+    <string name="ten_dia_diem">TÊN ĐỊA ĐIỂM:</string>
+    <string name="ten_thanh_pho">TÊN THÀNH PHỐ:</string>
+    <string name="loai_hinh_dich_vu">LOẠI HÌNH DỊCH VỤ:</string>
+
+    <string-array name="numbers">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
